@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/molestiae-sunt-fugiat-ex",
-  "version": "3.3.36",
+  "version": "3.3.37",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -370,5 +370,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/molestiae-sunt-fugiat-ex/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
